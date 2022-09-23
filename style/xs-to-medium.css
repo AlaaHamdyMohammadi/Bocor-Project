@@ -1,0 +1,246 @@
+@media(max-width : 991px){
+    .header .nav{
+        display: none;
+    }
+
+    .home{
+        flex-direction: column-reverse;
+    }
+
+    .hometext{
+        margin-left: 13%;
+    }
+
+    .hometext button{
+        margin-left: 30%;
+    }
+    .homeimg{
+        width: 100%;
+        text-align: center;
+    }
+    .homeimg img{
+        width: 45%;
+        height: 300px;
+        margin-left: 13%;
+    }
+    .brands ul{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .brands ul{
+        flex-direction: column;
+    }
+    .brands ul li{
+        margin: 20px 0;
+    }
+    .meeting{
+        flex-direction: column;
+    }
+    .meet-img{
+        width: 100%;
+        text-align: center;
+    }
+    .meet-details{
+        width: 90%;
+        text-align: center;
+    } 
+    .texts{
+        margin-left: 130px;
+    }
+    .imgs{
+        flex-direction: column;
+    }
+    .imgs .img-1{
+        margin-left: 17%;
+    }
+    .imgs .img-2{
+        margin-top: 25%;
+        margin-left: 17%; 
+    }
+    .feat-flx1{
+        flex-direction: column;
+    }
+    .imgside img,
+    .imgside2 img{
+        width: 70%;
+        margin-left: 17%;
+    }
+
+    .imgside,
+    .imgside2{
+        margin-top: 20px;
+    }
+
+    .contside{
+        text-align: center;
+    }
+
+    .smallflx i{
+        left: 22%;
+    }
+
+    .line{
+        right: 41%;
+        width: 15%;
+    }
+
+    .portfolios ul{
+        width: 30%;
+        margin: 50px auto;
+    }
+
+    .portfolios ul li a{
+        font-size: 30px;
+    }
+
+    .imgsflx{
+        flex-direction: column;
+    }
+
+    .imgsflx .one{
+        width: 50%;
+        margin: 50px auto;
+    }
+
+    .person{
+        flex-direction: column;
+    }
+
+    .person .son{
+        width: 50%;
+        margin: 50px auto;
+    }
+
+    .shadowflx{
+        flex-direction: column;
+    }
+
+    .shadowflx .first,
+    .shadowflx .second,
+    .shadowflx .third{
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .shadowflx .second{
+        margin: 50px auto;
+    }
+
+    
+    .shadowflx .second .smallflx i{
+        left: 2%;
+    }
+
+    .shadowflx .first .smallflx i,
+    .shadowflx .third .smallflx i{
+        left: 29%;
+    }
+
+    .bigflx{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .bigflx .flx1{
+        width: 100%;
+    }
+
+    .flx1{
+        position: relative;
+    }
+
+    .bigflx .flx1 h3{
+        width: 100%;
+        text-align: center;
+    }
+    .bigflx .flx1 i{
+        position: absolute;
+        margin-left: 16%;
+    }
+    .bigflx .flx1 .zor{
+        position: absolute;
+        margin-left: 21%;
+    }
+    .bigflx .flx1 .zoor{
+        position: absolute;
+        margin-left: 26%;
+    }
+    .bigflx .flx2{
+        width: 100%;
+        text-align: center;
+    }
+
+    .twoparts{
+        flex-direction: column;
+    }
+
+    .twoparts .part1,
+    .twoparts .part2{
+        width: 100%;
+    }
+
+    .part1 .address p{
+        text-align: center;
+    }
+
+    .part1 .email-call{
+        flex-direction: column;
+    }
+
+    .email-call .email,
+    .email-call .call{
+        align-self: center;
+    }
+
+    .email-call .call{
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+
+    .twoinputs{
+        flex-direction: column;
+    }
+    .twoinputs .name{
+        width: 100%;
+    }
+
+    .twoinputs .email2{
+        width: 100%;
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+
+    .part2 textarea{
+        width: 851px;
+        height: 210px;
+    }
+
+    /* .footer .final{
+        flex-direction: column;
+    }
+    .footer .final .copy{
+        margin-bottom: 5%;
+    } */
+
+    .footer .final .copy{
+        margin-right: 1%;
+    }
+    .footer .final .design{
+        margin-left: 32%;
+    }
+
+    .position button{
+        left: 93%;
+        right: 6%;
+        width: 76%;
+    }
+
+    .icons2{
+        margin: 5% 40%;
+    }
+
+    .icon-up{
+        right: 2%;
+    }
+}

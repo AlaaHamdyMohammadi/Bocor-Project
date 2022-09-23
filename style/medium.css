@@ -1,0 +1,9 @@
+@media(min-width:768px){
+    .brands ul img{
+        width: 150px;
+        height: 60px;
+    }
+    .hero{
+        background-image: linear-gradient(to top, green, white);
+    }
+}
